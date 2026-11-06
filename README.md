@@ -11,7 +11,23 @@ To create a two screens , first screen will take one number input from user. Aft
 Latest Version Android Studio
 
 ## ALGORITHM:
+1.Start the Android application and initialize the required activities.
 
+
+
+2.Create an Intent object to navigate from the current activity to the target activity.
+
+
+
+3.Specify the destination activity and pass the required data using putExtra().
+
+
+
+4.Use the startActivity() method to launch the target activity.
+
+
+
+5.Retrieve the passed data in the target activity and display the result on the screen.
 
 
 
